@@ -5795,6 +5795,11 @@ gh-pages@^4.0.0:
     fs-extra "^8.1.0"
     globby "^6.1.0"
 
+github-page@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/github-page/-/github-page-0.0.2.tgz#6308fcabfd45796f4329b74dd6a607f42870ae6f"
+  integrity sha512-u+x2ybX90hogw41VxW4/ho6Ennua3oyYtU8e8kMDg7nLxBFMYtSx1L4dyou018tSe8kKXVUt/kZB/hQ0wJa2JQ==
+
 glob-parent@^5.1.2, glob-parent@~5.1.2:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
